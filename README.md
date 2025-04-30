@@ -60,7 +60,7 @@ Our solution is architected as follows:
 
 - **Running the Application**  
   1. Start the FastAPI backend:  
-    `python app.py`
+    `python api.py`
   2. Start the Streamlit frontend:  
     `streamlit run app_streamlit.py`
   3. Access the Streamlit UI in your browser and upload a `.wav` file for analysis.
