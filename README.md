@@ -49,7 +49,7 @@ Our solution is architected as follows:
 
   Sensitive API keys and endpoints are managed via a `.env` file.
 
-- **Backend (FastAPI, `app.py`)**  
+- **Backend (FastAPI, `api.py`)**  
   The backend exposes a `/analyze-audio/` endpoint that accepts a `.wav` file, processes it using the agentic workflow, and returns segment-wise transcriptions and sentiment as JSON. It features robust error handling for file type, processing issues, and missing dependencies.
 
 - **Frontend (Streamlit, `app_streamlit.py`)**  
