@@ -1,8 +1,8 @@
 # Team Name- **AI Automators**
 # Team Members-
-**Sri Harsha Juttu**
-**Trikambhai, Chauhan Maheshbhai**
-**K S, Sandhya**
+- **Sri Harsha Juttu**
+- **Trikambhai, Chauhan Maheshbhai**
+- **K S, Sandhya**
 
 
 ## Overview
